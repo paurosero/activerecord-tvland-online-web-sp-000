@@ -1,0 +1,1 @@
+class AddAttributesToShow < ActiveRecord::Migration[5.1]
